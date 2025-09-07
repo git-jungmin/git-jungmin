@@ -8,6 +8,15 @@
         alt="gitanimals"
       />
     </a>
+    
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=git-jungmin&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/git-jungmin"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 <!--
 **git-jungmin/git-jungmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
